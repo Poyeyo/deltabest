@@ -1,0 +1,1 @@
+This is a slightly modified version of Michael Koch's Proxy-Dll (www.mikoweb.eu)
